@@ -1,0 +1,6 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Laptop,Electronics,999,150,4,250
+2,Smartphone,Electronics,699,200,4,300
+3,Headphones,Accessories,199,350,2,120
+4,Coffee Maker,Home Appliances,89,75,3,40
+5,Tablet,Electronics,399,120,1,180
